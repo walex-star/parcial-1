@@ -2,17 +2,6 @@
 
 Solución del parcial sobre representación, clasificación y recorridos de árboles. El programa `arbol.py` presenta los resultados en la terminal y dibuja el árbol con Matplotlib.
 
-## Requisitos y ejecución
-
-Se necesita Python 3. Instala Matplotlib y ejecuta el programa desde la carpeta del proyecto:
-
-```bash
-python -m pip install matplotlib
-python arbol.py
-```
-
-Al finalizar los resultados de texto, se abre una ventana con el árbol dirigido. Cierra la ventana para terminar la ejecución.
-
 ## Solución
 
 El árbol tiene 12 nodos, numerados del 1 al 12, y estas 11 conexiones padre-hijo:
