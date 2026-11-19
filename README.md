@@ -1,4 +1,4 @@
-# Parcial final: Estructuras de datos - Árboles
+# Parcial final: Estructuras de datos - Árboles - willian pantoja
 
 Solución del parcial sobre representación, clasificación y recorridos de árboles. El programa `arbol.py` presenta los resultados en la terminal y dibuja el árbol con Matplotlib.
 
